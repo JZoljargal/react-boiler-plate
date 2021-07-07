@@ -2,7 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Home from './Home';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import MyTable from './MyTable';
+import AppNav from './AppNav';
 
 ReactDOM.render(
   <React.StrictMode>
